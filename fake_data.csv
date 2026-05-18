@@ -1,0 +1,4 @@
+ID,Name,Age,City,Email,Salary,Department
+1,Alice,25,New York,alice@example.com,50000,HR
+2,Bob,30,London,bob@example.com,60000,IT
+3,Charlie,28,Sydney,charlie@example.com,55000,Finance
